@@ -61,5 +61,10 @@ create an link of that location lets say inside Guidelines.
    :caption: Fun:
 
    Fun/fun
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   
+   billingSection
 
 
