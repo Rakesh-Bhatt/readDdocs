@@ -10,6 +10,8 @@ This file is created for the sole purpose of getting the detailed knowledge of
 ``reStructured`` text with ``sphinx`` and later on using
 **read the docs to host the project**
 
+.. note::
+   new changes here
 
 .. caution:: 
    please pay attention to the documentation given.
