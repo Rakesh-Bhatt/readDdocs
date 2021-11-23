@@ -63,7 +63,7 @@ create an link of that location lets say inside Guidelines.
    Fun/fun
 .. toctree::
    :maxdepth: 2
-   :hidden:
+   :hidden: Billing Section
    
    billingSection
 
